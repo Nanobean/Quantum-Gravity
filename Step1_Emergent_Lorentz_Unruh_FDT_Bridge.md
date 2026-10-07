@@ -242,7 +242,7 @@ m_in = m_grav（等效原理是恒等式）
 
 ---
 
-## 10. 与评论者路线的对应
+## 10. 完成表
 
 评论者要求的：*Emergent Lorentz–Unruh–FDT bridge*
 
